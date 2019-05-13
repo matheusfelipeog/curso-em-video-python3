@@ -11,12 +11,12 @@
 - [*Mundo 2*]() - **(Em Breve)**
 - [*Mundo 3*]() - **(Em Breve)**
 
-<h3 align="center"> Redes
-  <br />
+<h2 align="center">Redes</h2>
+<p align="center">
   <a href="https://pt-br.facebook.com/CursosEmVideo/">
     <img src="/img/facebook.png" width="60px" />
   <a/>
   <a href="https://www.youtube.com/user/cursosemvideo">
     <img src="/img/youtube.png" width="60px" />
   </a>
-</h3>
+</p>
