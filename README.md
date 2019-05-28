@@ -9,7 +9,7 @@
 ## Mundos
 - [*Mundo 1*](https://github.com/matheusfelipeog/curso-em-video-python3/tree/master/Mundo_1_Fundamentos) - *Fundamentos*
 - [*Mundo 2*](https://github.com/matheusfelipeog/curso-em-video-python3/tree/master/Mundo_2_EstruturasDeControle) - *Estrutura de Controle*
-- [*Mundo 3*]() - **(Em Breve)**
+- [*Mundo 3*](https://github.com/matheusfelipeog/curso-em-video-python3/tree/master/Mundo_3_EstruturasCompostas) - *Estruturas Compostas*
 
 <h2 align="center">Redes</h2>
 <p align="center">
