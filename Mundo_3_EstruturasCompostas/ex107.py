@@ -15,5 +15,5 @@ valor = float(input('Informe um valor: R$'))
 
 print(f'Aumento de 10%: {moeda.aumentar(valor, 10):.2f}')
 print(f'Rezudino 15 %: {moeda.diminuir(valor, 15):.2f}')
-print(f'O dobro: {moeda.dobro(valor)}')
-print(f'A metade: {moeda.metade(valor):.2f}')
+print(f'O dobro de {valor:.2f} é: {moeda.dobro(valor):.2f}')
+print(f'A metade de {valor:.2f} é: {moeda.metade(valor):.2f}')
