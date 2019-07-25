@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://pt-br.facebook.com/CursosEmVideo/">
     <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/facebook_kctlwa.png" width="45px" />
-  <a/>
+  </a>
   <a href="https://www.youtube.com/user/cursosemvideo">
     <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/youtube_ziaheb.png" width="45px" />
   </a>
