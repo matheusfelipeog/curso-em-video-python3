@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://www.youtube.com/user/cursosemvideo">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/logoCursoemVideo_i32iqd.jpg" width="150px" /><br/>
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564076094/curso-em-video/python-logo_o1ggo8.png" width="300px" />
+    <img src="./assets/images/logo_curso_em_video.jpg" width="150px" /><br/>
+    <img src="./assets/images/logo_python.png" width="300px" />
   </a>
 </h1>
   
@@ -15,9 +15,9 @@
 <h2 align="center">Redes</h2>
 <p align="center">
   <a href="https://pt-br.facebook.com/CursosEmVideo/">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/facebook_kctlwa.png" width="45px" />
+    <img src="./assets/images/logo_facebook.png" width="45px" />
   </a>
   <a href="https://www.youtube.com/user/cursosemvideo">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1564075921/curso-em-video/youtube_ziaheb.png" width="45px" />
+    <img src="./assets/images/logo_youtube.png" width="45px" />
   </a>
 </p>
