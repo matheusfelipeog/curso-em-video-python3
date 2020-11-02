@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://www.youtube.com/user/cursosemvideo">
-    <img src="./assets/images/logo_curso_em_video.jpg" width="150px" /><br/>
-    <img src="./assets/images/logo_python.png" width="300px" />
+    <img src="./.github/assets/images/logo_curso_em_video.jpg" width="250px" />
+    <img src="./.github/assets/images/logo_python.png" width="100px" />
   </a>
 </h1>
   
@@ -15,9 +15,9 @@
 <h2 align="center">Redes</h2>
 <p align="center">
   <a href="https://pt-br.facebook.com/CursosEmVideo/">
-    <img src="./assets/images/logo_facebook.png" width="45px" />
+    <img src="./.github/assets/images/logo_facebook.png" width="45px" />
   </a>
   <a href="https://www.youtube.com/user/cursosemvideo">
-    <img src="./assets/images/logo_youtube.png" width="45px" />
+    <img src="./.github/assets/images/logo_youtube.png" width="45px" />
   </a>
 </p>
